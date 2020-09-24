@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/bothelp",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "andrey",
+      "email": "ansolovjev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "vlucas/phpdotenv": "^5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\": "Src"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+app/vendor
+logs/nginx
+logs/php
